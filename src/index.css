@@ -8,11 +8,11 @@
   
 
 #header{
-    background-image: url('./src/assets/pattern-bg-desktop.png');
+    background-image: url('../public/pattern-bg-desktop.png');
 }
 
 @media only screen and (max-width: 764px) {
     #header{
-        background-image: url('./src/assets/pattern-bg-mobile.png');
+        background-image: url('../public/pattern-bg-mobile.png');
     }
   }
