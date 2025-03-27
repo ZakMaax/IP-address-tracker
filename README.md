@@ -1,6 +1,3 @@
-Here's the corrected and improved version of your README with the author section properly placed at the bottom, and some formatting improvements:
-
-```markdown
 # 🌍 IP Address Tracker
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
@@ -67,7 +64,7 @@ cp .env.example .env
 
 # Start development server
 npm run dev
-```
+
 
 ## 👨‍💻 Author
 
