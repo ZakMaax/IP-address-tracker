@@ -64,10 +64,10 @@ cp .env.example .env
 
 # Start development server
 npm run dev
+```
 
 
-### 👨‍💻 Author
-
+## 👨‍💻 Author
 **Sakarie W. Mohamed**  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/ZakMaax)
 ```
