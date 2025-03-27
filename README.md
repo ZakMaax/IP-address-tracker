@@ -1,9 +1,11 @@
+Here's the corrected and improved version of your README with the author section properly placed at the bottom, and some formatting improvements:
+
+```markdown
 # 🌍 IP Address Tracker
 
 [![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-4.0.0-purple?logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-06B6D4?logo=tailwind-css)](https://tailwindcss.com/)
-
 
 An interactive web application that visualizes geographical locations based on IP addresses or domains using the ipify API.
 
@@ -65,6 +67,10 @@ cp .env.example .env
 
 # Start development server
 npm run dev
+```
 
+## 👨‍💻 Author
 
-#Author ![Sakarie W. Mohamed](https://github.com/ZakMaax/)
+**Sakarie W. Mohamed**  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/ZakMaax)
+```
