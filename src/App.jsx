@@ -65,14 +65,12 @@ function App() {
   return (
     <>
       <div id="header" className="relative pb-32 pt-10 flex flex-col items-center justify-center gap-6">
-       {
-        apiData && 
-        <>
+ 
             <h1 className="capitalize font-rubik font-medium text-3xl md:text-4xl text-center text-gray-100 mt-8">IP Adress Tracker</h1>
             <Input onGetIP={getAPI}/>
             <InfoDisplay loading={loading} info={apiData} />
-        </>
-       }
+   
+ 
       </div>
       <Map location={location}/>
 
